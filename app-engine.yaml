@@ -1,4 +1,4 @@
-application: my-application-id  # defined when you create your app using google dev console
+application: heokjin-home  # defined when you create your app using google dev console
 module: default                 # see https://cloud.google.com/appengine/docs/go/
 version: alpha                  # you can run multiple versions of an app and A/B test
 runtime: go                     # see https://cloud.google.com/appengine/docs/go/
